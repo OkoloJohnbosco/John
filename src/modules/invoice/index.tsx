@@ -1,4 +1,4 @@
-/* eslint-disable jsx-a11y/alt-text */
+ 
 "use client"
 // InvoicePDF.tsx
 import React from "react";
@@ -95,7 +95,7 @@ const InvoicePDF = () => (
       <View style={styles.header}>
         <View>
           {/* Replace with actual logo */}
-          <Image src="./mukuru-logo.webp" style={styles.logo} />  
+          {/* <Image src="./mukuru-logo.webp" style={styles.logo} />   */}
           <Text style={{ fontSize: 24, color: "green", fontWeight: "bold" }}>
             EV
           </Text>
