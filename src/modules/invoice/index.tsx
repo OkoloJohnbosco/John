@@ -9,7 +9,6 @@ import {
   View,
   StyleSheet,
   Font,
-  Image,
 } from "@react-pdf/renderer";
 
 // ✅ Register a Google font
